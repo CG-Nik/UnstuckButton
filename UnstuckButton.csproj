@@ -285,6 +285,9 @@
 		<Reference Include="TabletUILib">
 		  <HintPath>D:\Games\A Township Tale Server\A Township Tale\Mods\TabletUILib.dll</HintPath>
 		</Reference>
+		<Reference Include="TabletUILib">
+		  <HintPath>D:\Games\A Township Tale Server\A Township Tale\Mods\TabletUILib-PC.dll</HintPath>
+		</Reference>
 		<Reference Include="Township.Core.Runtime">
 			<HintPath>$(GamePath)/A Township Tale_Data\Managed\Township.Core.Runtime.dll</HintPath>
 		</Reference>
